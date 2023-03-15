@@ -1,0 +1,8 @@
+Error at 2022-12-01 13:32:53.352836 : Nu s-a gasit caracteristicile masinii! Probabil autovit a schimbat formatul pentru caracteristicile masinii
+Error at 2022-12-01 13:32:53.355993 : Eroare la conversia artiolelor!
+Error at 2022-12-01 13:36:28.449498 : Eroare la conversia artiolelor!
+Error at 2022-12-01 13:37:49.318361 : Nu s-a gasit pretul masinii! Probabil autovit a schimbat formatul pentru pretul masinii la main car article
+Error at 2022-12-01 13:37:49.319359 : Eroare la conversia artiolelor!
+Error at 2022-12-01 13:42:14.819412 : Nu s-a gasit pretul masinii! Probabil autovit a schimbat formatul pentru pretul masinii la main car article
+Error at 2022-12-01 13:42:14.821413 : Eroare la conversia artiolelor!
+Error at 2022-12-01 14:23:13.131278 : Nu s-a putut scrie/citi din fisierul cars.json

@@ -1,0 +1,378 @@
+[
+  {
+    "name": "Tesla Model 3",
+    "year": "2021 ",
+    "kilometers": "13 990 km",
+    "price": "63 500 euro"
+  },
+  {
+    "name": "BMW X4 xDrive25d Aut.",
+    "year": "2018 ",
+    "kilometers": "153 428 km",
+    "fuel": "Diesel",
+    "cylindrical capacity": "1 995 cm3",
+    "price": "42 500 euro"
+  },
+  {
+    "name": "Skoda Superb 1.4 TSI PHEV",
+    "year": "2020 ",
+    "kilometers": "49 000 km",
+    "cylindrical capacity": "1 395 cm3",
+    "price": "35 400 euro"
+  },
+  {
+    "name": "Citro\u00ebn C3 1.2 PureTech S&amp;S BVM5",
+    "year": "2022 ",
+    "kilometers": "4 km",
+    "fuel": "Benzina",
+    "cylindrical capacity": "1 199 cm3",
+    "price": "18 529 euro"
+  },
+  {
+    "name": "Ford Transit Connect (Kurz) DPF",
+    "year": "2013 ",
+    "kilometers": "174 204 km",
+    "fuel": "Diesel",
+    "cylindrical capacity": "1 753 cm3",
+    "price": "7 900 euro"
+  },
+  {
+    "name": "Honda CR-V 2.0 M/T 2WD",
+    "year": "2015 ",
+    "kilometers": "33 900 km",
+    "fuel": "Benzina",
+    "cylindrical capacity": "1 997 cm3",
+    "price": "17 900 euro"
+  },
+  {
+    "name": "Citro\u00ebn C-Elys\u00e9e",
+    "year": "2017 ",
+    "kilometers": "32 000 km",
+    "fuel": "Benzina",
+    "cylindrical capacity": "1 199 cm3",
+    "price": "7 500 euro"
+  },
+  {
+    "name": "Porsche 944",
+    "year": "1987 ",
+    "kilometers": "77 000 km",
+    "fuel": "Benzina",
+    "cylindrical capacity": "2 449 cm3",
+    "price": "19 000 euro"
+  },
+  {
+    "name": "Mazda CX-5 CD150 4x4 AT",
+    "year": "2013 ",
+    "kilometers": "185 000 km",
+    "fuel": "Diesel",
+    "cylindrical capacity": "2 191 cm3",
+    "price": "11 700 euro"
+  },
+  {
+    "name": "Volvo XC 90 T8 Twin Engine AWD",
+    "year": "2016 ",
+    "kilometers": "140 000 km",
+    "cylindrical capacity": "1 969 cm3",
+    "price": "49 900 euro"
+  },
+  {
+    "name": "Skoda Superb 2.0 TDI DSG",
+    "year": "2017 ",
+    "kilometers": "186 454 km",
+    "fuel": "Diesel",
+    "cylindrical capacity": "1 968 cm3",
+    "price": "18 445 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:35:41.486300",
+    "name": "Volkswagen Jetta 1.6 TDI",
+    "year": "2014 ",
+    "kilometers": "100 491 km",
+    "fuel": "Diesel",
+    "cylindrical capacity": "1 598 cm3",
+    "price": "8 330 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:35:41.486300",
+    "name": "Audi A6 3.0 55 TFSI quattro S tronic",
+    "year": "2018 ",
+    "kilometers": "60 000 km",
+    "fuel": "Benzina",
+    "cylindrical capacity": "2 995 cm3",
+    "price": "49 990 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:35:41.486300",
+    "name": "Volkswagen Jetta 2.0 TDI BlueMotion Technologie",
+    "year": "2017 ",
+    "kilometers": "118 473 km",
+    "fuel": "Diesel",
+    "cylindrical capacity": "1 968 cm3",
+    "price": "12 495 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:35:41.486300",
+    "name": "Renault Koleos 2.0 dCi 4X4",
+    "year": "2013 ",
+    "kilometers": "217 000 km",
+    "fuel": "Diesel",
+    "cylindrical capacity": "1 995 cm3",
+    "price": "9 390 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:35:41.486300",
+    "name": "BMW X4 xDrive25d Aut.",
+    "year": "2018 ",
+    "kilometers": "153 428 km",
+    "fuel": "Diesel",
+    "cylindrical capacity": "1 995 cm3",
+    "price": "42 500 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:35:41.487299",
+    "name": "Citro\u00ebn C4 Picasso 2.0 HDi FAP Aut.",
+    "year": "2012 ",
+    "kilometers": "146 000 km",
+    "fuel": "Diesel",
+    "cylindrical capacity": "1 997 cm3",
+    "price": "7 490 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:35:41.487299",
+    "name": "Cadillac CT6 3.0 V6 TWIN-TURBO AWD",
+    "year": "2017 ",
+    "kilometers": "130 000 km",
+    "fuel": "Benzina",
+    "cylindrical capacity": "2 997 cm3",
+    "price": "38 900 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:35:41.487299",
+    "name": "Skoda Fabia 1.2 TSI",
+    "year": "2016 ",
+    "kilometers": "75 000 km",
+    "fuel": "Benzina",
+    "cylindrical capacity": "1 197 cm3",
+    "price": "9 800 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:35:41.487299",
+    "name": "Mercedes-Benz GLE 300 d 4MATIC",
+    "year": "2019 ",
+    "kilometers": "57 037 km",
+    "fuel": "Diesel",
+    "cylindrical capacity": "1 950 cm3",
+    "price": "74 929 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:35:41.487299",
+    "name": "Volkswagen Passat Variant 2.0 TDI BlueMotion Technology",
+    "year": "2012 ",
+    "kilometers": "217 000 km",
+    "fuel": "Diesel",
+    "cylindrical capacity": "1 968 cm3",
+    "price": "8 990 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:35:41.487299",
+    "name": "Volkswagen Amarok 3.0 TDI 4MOTION Autm.",
+    "year": "2020 ",
+    "kilometers": "73 387 km",
+    "fuel": "Diesel",
+    "cylindrical capacity": "2 967 cm3",
+    "price": "45 899 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:35:55.850197",
+    "name": "Skoda Kodiaq 2.0 TDI 4X4 DSG",
+    "year": "2020 ",
+    "kilometers": "27 831 km",
+    "fuel": "Diesel",
+    "cylindrical capacity": "1 968 cm3",
+    "price": "31 200 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:35:55.850197",
+    "name": "Mercedes-Benz EQA 300 4MATIC",
+    "year": "2021 ",
+    "kilometers": "44 500 km",
+    "price": "48 000 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:35:55.850197",
+    "name": "Skoda Octavia Combi 1.6 TDI",
+    "year": "2018 ",
+    "kilometers": "199 725 km",
+    "fuel": "Diesel",
+    "cylindrical capacity": "1 598 cm3",
+    "price": "12 390 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:35:55.850197",
+    "name": "BMW X5 xDrive30d Sport-Aut.",
+    "year": "2015 ",
+    "kilometers": "141 000 km",
+    "fuel": "Diesel",
+    "cylindrical capacity": "2 993 cm3",
+    "price": "26 990 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:35:55.850197",
+    "name": "Mercedes-Benz S 580e 4Matic L 9G-TRONIC",
+    "year": "2022 ",
+    "kilometers": "3 990 km",
+    "cylindrical capacity": "2 999 cm3",
+    "price": "166 481 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:35:55.850197",
+    "name": "Ford Kuga 2.0 TDCi 4WD Powershift",
+    "year": "2018 ",
+    "kilometers": "136 411 km",
+    "fuel": "Diesel",
+    "cylindrical capacity": "1 997 cm3",
+    "price": "19 989 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:35:55.850197",
+    "name": "Skoda Octavia 2.0 TDI DSG",
+    "year": "2018 ",
+    "kilometers": "111 649 km",
+    "fuel": "Diesel",
+    "cylindrical capacity": "1 968 cm3",
+    "price": "18 899 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:35:55.850197",
+    "name": "Opel Astra 1.6 ECOTEC DI Turbo ecoFLEX Start/Stop",
+    "year": "2015 ",
+    "kilometers": "62 000 km",
+    "fuel": "Benzina",
+    "cylindrical capacity": "1 598 cm3",
+    "price": "8 499 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:35:55.850197",
+    "name": "Mitsubishi ASX 1.8 DID 4WD",
+    "year": "2012 ",
+    "kilometers": "231 000 km",
+    "fuel": "Diesel",
+    "cylindrical capacity": "1 798 cm3",
+    "price": "8 900 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:35:55.850197",
+    "name": "Skoda RAPID 1.0 TSI",
+    "year": "2018 ",
+    "kilometers": "140 142 km",
+    "fuel": "Benzina",
+    "cylindrical capacity": "999 cm3",
+    "price": "9 990 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:35:55.850197",
+    "name": "Dodge Challenger",
+    "year": "2020 ",
+    "kilometers": "17 800 km",
+    "fuel": "Benzina",
+    "cylindrical capacity": "6 166 cm3",
+    "price": "79 000 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:36:52.419595",
+    "name": "Nissan Pulsar",
+    "year": "2015 ",
+    "kilometers": "106 183 km",
+    "fuel": "Diesel",
+    "cylindrical capacity": "1 461 cm3",
+    "price": "9 090 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:36:52.419595",
+    "name": "Volkswagen Jetta 2.0 TDI BlueMotion Technologie",
+    "year": "2017 ",
+    "kilometers": "90 276 km",
+    "fuel": "Diesel",
+    "cylindrical capacity": "1 968 cm3",
+    "price": "13 950 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:36:52.419595",
+    "name": "Citro\u00ebn C3 1.2 PureTech S&amp;S BVM5",
+    "year": "2022 ",
+    "kilometers": "4 km",
+    "fuel": "Benzina",
+    "cylindrical capacity": "1 199 cm3",
+    "price": "18 529 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:36:52.419595",
+    "name": "Audi Q5",
+    "year": "2012 ",
+    "kilometers": "176 000 km",
+    "fuel": "Benzina",
+    "cylindrical capacity": "1 984 cm3",
+    "price": "11 900 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:36:52.420597",
+    "name": "Seat Ateca",
+    "year": "2019 ",
+    "kilometers": "129 850 km",
+    "fuel": "Diesel",
+    "cylindrical capacity": "1 968 cm3",
+    "price": "17 450 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:36:52.420597",
+    "name": "Ford Focus 1.6",
+    "year": "2008 ",
+    "kilometers": "102 363 km",
+    "fuel": "Benzina",
+    "cylindrical capacity": "1 596 cm3",
+    "price": "3 690 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:36:52.420597",
+    "name": "Audi Q8 3.0 50 TDI quattro Tiptronic",
+    "year": "2019 ",
+    "kilometers": "71 696 km",
+    "fuel": "Diesel",
+    "cylindrical capacity": "2 967 cm3",
+    "price": "64 900 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:36:52.420597",
+    "name": "Suzuki Jimny",
+    "year": "2019 ",
+    "kilometers": "29 000 km",
+    "fuel": "Benzina",
+    "cylindrical capacity": "1 462 cm3",
+    "price": "28 500 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:36:52.420597",
+    "name": "Volvo XC 60 B4 MHEV AT8 AWD",
+    "year": "2021 ",
+    "kilometers": "24 255 km",
+    "fuel": "Diesel",
+    "cylindrical capacity": "1 969 cm3",
+    "price": "44 498 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:36:52.420597",
+    "name": "BMW X5 xDrive30d",
+    "year": "2022 ",
+    "kilometers": "21 000 km",
+    "fuel": "Diesel",
+    "cylindrical capacity": "2 993 cm3",
+    "price": "84 500 euro"
+  },
+  {
+    "date and time": "2022-12-09 13:36:52.420597",
+    "name": "Mercedes-Benz EQE AMG 43 4Matic",
+    "year": "2022 ",
+    "kilometers": "7 km",
+    "price": "148 746 euro"
+  }
+]
