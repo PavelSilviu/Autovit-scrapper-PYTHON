@@ -1,5 +1,7 @@
 # Autovit scrapper PYTHON
  <p>This is a Python script to scrape information about cars from autovit.ro. The script extracts the name, price, year, kilometers, fuel and cylindrical capacity of cars from search results or from the main article about a car.</p>
+![image](https://github.com/PavelSilviu/Autovit-scrapper-PYTHON/assets/45463347/3a665eb5-f57a-43d9-b8d2-81478fc07965)
+
     <h2>Installation</h2>
     <p>Clone this repository:</p>
     <pre><code>git clone https://github.com/PavelSilviu/Autovit-scrapper-PYTHON.git</code></pre>
